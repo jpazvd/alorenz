@@ -79,7 +79,7 @@ program define alorenz   , rclass
   * Download and install required user written ado's
   *-----------------------------------------------------------------------------
   * Fill this list will all user-written commands this project requires
-	  local user_commands groupfunction which_version
+	  local user_commands groupfunction which_version tknz
 
   * Loop over all the commands to test if they are already installed, if not, then install
 	  qui foreach command of local user_commands {
