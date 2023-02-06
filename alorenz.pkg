@@ -1,0 +1,11 @@
+v 2.3.1
+d 'ALORENZ': ALORENZ: Stata module to produce Pen's Parade, Lorenz and Generalised Lorenz curve
+d 
+d Distribution-Date:   20190204
+d License: MIT
+d 
+F src/a/alorenz.ado
+F src/a/alorenz.hlp
+F src/_/_ebin.ado
+F src/_/_matchval.ado
+F src/_/_pecatsal.ado
